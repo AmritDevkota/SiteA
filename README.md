@@ -1,1 +1,1 @@
-# SiteA
+You can fork this repository and create your own site!
