@@ -28,3 +28,7 @@ form{
   font-size: 0.85em;
   border-radius: 25px;
 }
+
+.icon:hover{
+  opacity: 0.7;
+}
